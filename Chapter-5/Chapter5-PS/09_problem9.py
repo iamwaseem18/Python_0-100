@@ -1,0 +1,1 @@
+#No you cannot change the values in the sets as sets are immutable. Infact you cannot have a list in a python as lists are mutuable.
