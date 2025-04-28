@@ -1,6 +1,3 @@
-Introduction
-This repository is part of The Ultimate Python Course created by CodeWithHarry. The course aims to provide a comprehensive guide to learning Python programming.
-
 Chapters
 The course is divided into several chapters, each focusing on different aspects of Python programming:
 
